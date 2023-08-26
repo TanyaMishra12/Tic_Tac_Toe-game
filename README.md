@@ -1,1 +1,2 @@
 # Tic_Tac_Toe-game
+The Tic-Tac-Toe game project employs HTML to structure the grid-based game board, CSS for styling its appearance, and JavaScript for interactive functionality. Players click on cells to make moves, with JavaScript tracking player turns and validating moves. The game checks for win conditions and updates the display accordingly, allowing players to reset the game for a new round.
